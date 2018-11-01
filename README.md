@@ -36,7 +36,7 @@ RDFそのものについても基本的なことから解説しますので、�
 ### RDF入門
 
 * 「RDF入門」 講師：川島 秀一（ライフサイエンス統合データベースセンター） 
-    - [講演動画(統合TV)]([http://togotv.dbcls.jp/20180102.html)
+    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180102.html)
 * 「SPARQL入門」 講師：山本 泰智（ライフサイエンス統合データベースセンター）
     - [スライド](https://doi.org/10.6084/m9.figshare.5028155.v1)
     - [講演動画(統合TV)](http://togotv.dbcls.jp/20180103.html)
