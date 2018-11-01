@@ -27,36 +27,36 @@ RDFそのものについても基本的なことから解説しますので、�
 * 無線LANをご利用頂ける予定です (回線速度は100Mbpsベストエフォート)
 
 ### 主催
-[情報・システム研究機構　データサイエンス共同利用基盤施設　ライフサイエンス統合データベースセンター（DBCLS）](http://dbcls.jp/)
+[情報・システム研究機構　データサイエンス共同利用基盤施設　ライフサイエンス統合データベースセンター（DBCLS）](https://dbcls.jp/)
 ### 共催
-[科学技術振興機構　バイオサイエンスデータベースセンター（NBDC）](http://biosciencedbc.jp)
+[科学技術振興機構　バイオサイエンスデータベースセンター（NBDC）](https://biosciencedbc.jp)
 
 ## 講習内容
 
 ### RDF入門
 
 * 「RDF入門」 講師：川島 秀一（ライフサイエンス統合データベースセンター） 
-    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180102.html)
+    - [講演動画(統合TV)](https://togotv.dbcls.jp/20180102.html)
 * 「SPARQL入門」 講師：山本 泰智（ライフサイエンス統合データベースセンター）
     - [スライド](https://doi.org/10.6084/m9.figshare.5028155.v1)
-    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180103.html)
+    - [講演動画(統合TV)](https://togotv.dbcls.jp/20180103.html)
 
 ### データのRDF化
 
 * 「TogoDBを利用した、データのRDF化」 講師：片山 俊明（ライフサイエンス統合データベースセンター）
     - [スライド](https://www.dropbox.com/s/z0xhck2k0205tu1/20171006-TogoDB-RDF.pdf?dl=0)
-    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180104.html)
+    - [講演動画(統合TV)](https://togotv.dbcls.jp/20180104.html)
 * 「D2RQ Mapperを利用した、データのRDF化」 講師：山本 泰智（ライフサイエンス統合データベースセンター）
     - [スライド](https://doi.org/10.6084/m9.figshare.5477527.v3)
-    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180105.html)
+    - [講演動画(統合TV)](https://togotv.dbcls.jp/20180105.html)
 
 
 ### 既存RDFと、RDF化したデータを統合した利用
 
 * 「RDF形式で利用できる、生命科学RDFデータの紹介」 講師：川島 秀一（ライフサイエンス統合データベースセンター） 
-    - [講演動画(統合TV)](http://doi.org/10.7875/togotv.2016.140)
+    - [講演動画(統合TV)](https://doi.org/10.7875/togotv.2016.140)
 * 「RDF化した自分のデータと、既存の生命科学RDFデータを統合して利用する方法 」 講師：川島 秀一（ライフサイエンス統合データベースセンター）
-    - [講演動画(統合TV)](http://togotv.dbcls.jp/20180107.html)
+    - [講演動画(統合TV)](https://togotv.dbcls.jp/20180107.html)
 
 
 ## 参考文献
